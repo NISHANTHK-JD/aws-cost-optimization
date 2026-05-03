@@ -187,12 +187,6 @@ terraform apply
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 ## 👤 Author
 
 **Nishanth Kumar J** — DevOps Engineer  
