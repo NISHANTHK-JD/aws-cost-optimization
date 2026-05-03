@@ -191,4 +191,4 @@ terraform apply
 
 **Nishanth Kumar J** — DevOps Engineer  
 📧 nishanthk211969@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/nishanthkumar-janarthanam-5a60b219a)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishanthkumar-janarthanam-5a60b219a)
